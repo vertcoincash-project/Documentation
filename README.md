@@ -5,3 +5,5 @@ Support will be added for multiple algorithms.
 There will be NO PREMINE, it will be offered to everybody at the same time.
 
 Block height of fork has yet to be determined.
+
+A supporting wallet shall be available at the time of launch
